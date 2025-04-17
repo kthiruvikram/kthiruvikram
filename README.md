@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K Thiruvikram</h1>
+<h1 align="center">Hi 👋, I'm  Thiruvikram Karthikeyan</h1>
 <h3 align="center">ECE @ NHCE | Full Stack & ML Learner | Building MoodPlay 🎧 | Dreaming Big 🚀</h3>
 
 ---
