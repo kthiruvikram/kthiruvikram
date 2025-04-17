@@ -22,7 +22,7 @@
 
 📫 **Let's Connect!**
 - 📧 Email: kthiruvikram@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/kthiruvikram](https://linkedin.com/in/kthiruvikram) *(update this if needed)*  
+- 💼 LinkedIn: [www.linkedin.com/in/thiruvikram-karthikeyan-924a7a317) 
 - 🌐 Portfolio: Coming soon...
 
 ---
