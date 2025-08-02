@@ -4,7 +4,7 @@
 ---
 
 🌟 **About Me**
-- 🎓 Second-year **Electronics & Communication Engineering** student at **New Horizon College of Engineering (NHCE)**  
+- 🎓 Third-year **Electronics & Communication Engineering** student at **New Horizon College of Engineering (NHCE)**  
 - 💻 Exploring **Full Stack Development**, **Machine Learning**, and **Embedded Systems**  
 - 🎧 Currently building **MoodPlay** – a music player that adapts to your emotions  
 - 📜 IBM Full Stack Certification (in progress) | 🈷️ Japanese Language (N4 level, in training)  
